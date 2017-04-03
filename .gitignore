@@ -63,8 +63,3 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
-.gitignore
-.idea/
-dropwizard-quartz-com.langellu.jobs.iml
-pom.xml
-src/
