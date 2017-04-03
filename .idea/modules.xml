@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dropwizard-quartz-jobs.iml" filepath="$PROJECT_DIR$/dropwizard-quartz-jobs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dropwizard-quartz-jobs-core/dropwizard-quartz-jobs-core.iml" filepath="$PROJECT_DIR$/dropwizard-quartz-jobs-core/dropwizard-quartz-jobs-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dropwizard-quartz-jobs-example/dropwizard-quartz-jobs-example.iml" filepath="$PROJECT_DIR$/dropwizard-quartz-jobs-example/dropwizard-quartz-jobs-example.iml" />
+    </modules>
+  </component>
+</project>
