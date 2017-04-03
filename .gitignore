@@ -65,6 +65,6 @@ fabric.properties
 
 .gitignore
 .idea/
-dropwizard-quartz-jobs.iml
+dropwizard-quartz-com.langellu.jobs.iml
 pom.xml
 src/
