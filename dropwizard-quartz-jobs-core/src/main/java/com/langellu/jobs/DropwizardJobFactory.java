@@ -10,9 +10,7 @@ import org.quartz.spi.TriggerFiredBundle;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * Created by langellu on 24/03/2017.
- */
+
 public class DropwizardJobFactory implements JobFactory {
 
     private Map<String, Job> jobMap;

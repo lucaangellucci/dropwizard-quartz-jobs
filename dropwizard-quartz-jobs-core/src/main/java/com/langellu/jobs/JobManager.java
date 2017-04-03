@@ -15,9 +15,6 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Properties;
 
-/**
- * Created by langellu on 24/03/2017.
- */
 public class JobManager implements Managed {
 
     private static final Logger logger = LoggerFactory.getLogger(JobManager.class);

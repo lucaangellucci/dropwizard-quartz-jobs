@@ -5,9 +5,6 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * Created by langellu on 24/03/2017.
- */
 public class JobConfiguration {
 
     @JsonProperty("quartz")
