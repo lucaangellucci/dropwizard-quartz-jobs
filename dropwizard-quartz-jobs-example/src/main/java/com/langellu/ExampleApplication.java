@@ -30,9 +30,7 @@ public class ExampleApplication extends Application<ExampleConfiguration> {
 
     @Override
     public void run(ExampleConfiguration exampleConfiguration, Environment environment) throws Exception {
-
         PersonDao personDao = new PersonDao();
-
         jobBundle.getJobManager().registerJobs(new ExampleJob(personDao));
     }
 
